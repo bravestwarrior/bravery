@@ -1,2 +1,0 @@
-# bravery
-coursera project 
